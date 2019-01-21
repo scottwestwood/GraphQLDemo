@@ -1,2 +1,2 @@
 # GraphQLDemo
-Demo React / GraphQL website
+Demo React / GraphQL websitexx
